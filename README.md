@@ -8,6 +8,8 @@ Notes and resources for the Literature and the Ethics of Telling a Story course 
     - Terminology
         - Ethics and Morals
         - Story, Plot and Narrative
+* Lecture 2 (09 Jan, Tue)
+    - Night and Fog
 
 # Grading Policy
 * Assignment-1: 30%
