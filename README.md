@@ -10,6 +10,9 @@ Notes and resources for the Literature and the Ethics of Telling a Story course 
         - Story, Plot and Narrative
 * Lecture 2 (09 Jan, Tue)
     - Night and Fog
+* Lecture 3 (12 Jan, Fri)
+    - Film Analysis
+    - Shoah
 
 # Grading Policy
 * Assignment-1: 30%
