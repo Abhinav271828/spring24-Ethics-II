@@ -13,6 +13,10 @@ Notes and resources for the Literature and the Ethics of Telling a Story course 
 * Lecture 3 (12 Jan, Fri)
     - Film Analysis
     - Shoah
+* Lecture 4 (16 Jan, Tue)
+    - History of the Documentary
+        - Famine in Bengal
+    - Shoah vs. Night and Fog
 
 # Grading Policy
 * Assignment-1: 30%
