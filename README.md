@@ -17,6 +17,8 @@ Notes and resources for the Literature and the Ethics of Telling a Story course 
     - History of the Documentary
         - Famine in Bengal
     - Shoah vs. Night and Fog
+* Lecture 5 (23 Jan, Tue)
+    - Witnessing and Testifying
 
 # Grading Policy
 * Assignment-1: 30%
