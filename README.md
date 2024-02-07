@@ -23,6 +23,8 @@ Notes and resources for the Literature and the Ethics of Telling a Story course 
     - [MISSED]
 * Lecture 7 (06 Feb, Tue)
     - Night (Elie Wiesel)
+* Lecture 8 (07 Feb, Wed)
+    - Kafer (Ateen Bandhopadhyay)
 
 # Grading Policy
 * Assignment-1: 30%
