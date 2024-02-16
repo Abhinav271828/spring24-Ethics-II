@@ -25,6 +25,10 @@ Notes and resources for the Literature and the Ethics of Telling a Story course 
     - Night (Elie Wiesel)
 * Lecture 8 (07 Feb, Wed)
     - Kafer (Ateen Bandhopadhyay)
+* Lecture 9 (13 Feb, Tue)
+    - [MISSED]
+* Lecture 10 (16 Feb, Fri)
+    - New Customs (Ajay Nevaria) vs. Kafan (Munshi Premchand)
 
 # Grading Policy
 * Assignment-1: 30%
