@@ -2,7 +2,7 @@
 title: Literature and the Ethics of Telling a Story
 subtitle: |
           | Spring 2024, IIIT Hyderabad
-          | 16 February, Wednesday (Lecture 10)
+          | 16 February, Friday (Lecture 10)
 author: Taught by Prof. Sushmita Banerji
 ---
 
