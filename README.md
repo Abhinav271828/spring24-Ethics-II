@@ -29,6 +29,8 @@ Notes and resources for the Literature and the Ethics of Telling a Story course 
     - [MISSED]
 * Lecture 10 (16 Feb, Fri)
     - New Customs (Ajay Nevaria) vs. Kafan (Munshi Premchand)
+* Lecture 11 (20 Feb, Tue)
+    - Ijjat (Narayan Gangopadhyay)
 
 # Grading Policy
 * Assignment-1: 30%
